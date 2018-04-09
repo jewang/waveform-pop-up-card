@@ -98,4 +98,8 @@ ENV/
 /site
 
 # mypy
-.mypy_cache/
+.mypy_cache
+
+*.pdf
+*.m4a
+*.wav
