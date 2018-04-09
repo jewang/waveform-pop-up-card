@@ -12,9 +12,10 @@ This project came about as a way for me to wish happy holidays to some geographi
 [samples/popup.svg](samples/popup.svg) is 
 generated from an audio recording of me saying "happy holidays." They are inspired by [Peter Dahmen's Amazing Pop-Up card tutorial](https://peterdahmen.de/en/2017/09/07/amazing-pop-up-card-tutorial/) and by the art of [*kirigami*](https://en.wikipedia.org/wiki/Kirigami).
 
-<img src="photos/3-cards.jpg" alt="3 cards in a row" />
-<br />
-<img src="photos/column.jpg" alt="column of cards" />
+![3 cards in a row](photos/3-cards.png)
+
+![1 card at an angle](photos/at-an-angle.png)
+
 
 # How to make your own
 
@@ -75,7 +76,6 @@ card will wrinkle around the fold when you close it.
 - Use glue sparingly. Too much glue will wrinkle the cardstock.
 
 
+![column of cards](photos/column.png)
 
-<img src="photos/at-an-angle.jpg" alt="1 card at an angle" />
-<br />
-<img src="photos/star.jpg" alt="Cards forming a star" />
+![Cards forming a star](photos/star.png)
