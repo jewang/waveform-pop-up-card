@@ -103,3 +103,4 @@ ENV/
 *.pdf
 *.m4a
 *.wav
+.idea/*

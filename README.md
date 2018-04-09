@@ -76,6 +76,8 @@ card will wrinkle around the fold when you close it.
 - Use glue sparingly. Too much glue will wrinkle the cardstock.
 
 
+![Show a pattern](samples/popup.svg)
+
 ![column of cards](photos/column.png)
 
 ![Cards forming a star](photos/star.png)
